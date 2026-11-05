@@ -1,0 +1,3 @@
+Castlevania Launcher portable folder marker
+
+Keep this file beside CastlevaniaLauncher.exe at the root of the portable installation.

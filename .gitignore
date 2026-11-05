@@ -1,0 +1,8 @@
+/build/
+/dist/
+/.vs/
+*.ini
+*.log
+/Game/
+/Native/
+/UserData/
