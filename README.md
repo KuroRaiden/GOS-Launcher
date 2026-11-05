@@ -1,4 +1,4 @@
-# Castlevania Launcher
+# GOS Launcher
 
 A native Windows x64 launcher for the experimental Grimoire of Souls OpenGL port. It finds the game and its native library relative to the launcher, starts the game, and opens the latest Unity log.
 
